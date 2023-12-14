@@ -1,3 +1,3 @@
 # learn-js
 <br>
-Author - Paviterjeet Kaur
+Author - Paviterjeet Kaur Sidhu
